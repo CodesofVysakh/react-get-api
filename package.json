@@ -2,7 +2,7 @@
   "name": "get-request-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://CodesofVysakh.github.io/react-fetch-api",
+  "homepage": "http://CodesofVysakh.github.io/react-get-api",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

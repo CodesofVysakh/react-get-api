@@ -15,8 +15,7 @@ export default function User() {
             })
             .catch(function (error) {
                 console.log(error);
-            })
-            
+            })   
     },[]);
 
     return (
